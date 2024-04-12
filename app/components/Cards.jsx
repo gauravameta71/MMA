@@ -96,6 +96,7 @@ const BackgroundGradientDemo =()=> {
           </button>
         </BackgroundGradient>
       </div>
+      <p className="text-white text-xl text-center pb-8 pt-8" >Gourav Ameta</p>
     </>
   );
 }
