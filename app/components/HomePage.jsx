@@ -1,7 +1,7 @@
 // HomePage.js
 "use client"
 import React from "react";
-import YouTube from "./YouTube";
+import Youtube from "./Youtube";
 
 const HomePage = () => {
   return (
@@ -11,6 +11,7 @@ const HomePage = () => {
         <div className=" m-[-22px]">
           <div className=" w-1/2 h-full p-12 border-x-black ">
             <YouTube videoId="JuBBIJ7adjM" className="" />
+            {/* <img src="/img" alt="" /> */}
           </div>
         </div>
         {/* Divider */}
