@@ -10,7 +10,7 @@ const HomePage = () => {
         {/* 2 */}
         <div className=" m-[-22px]">
           <div className=" w-1/2 h-full p-12 border-x-black ">
-            <YouTube videoId="JuBBIJ7adjM" className="" />
+            <Youtube videoId="JuBBIJ7adjM" className="" />
             {/* <img src="/img" alt="" /> */}
           </div>
         </div>
